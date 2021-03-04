@@ -142,3 +142,9 @@ void loop() {
         std::cout << std::endl;
     }
 }
+
+int main(int argc, char** argv) {
+    loop();
+
+    return EXIT_SUCCESS;
+}
